@@ -1,4 +1,4 @@
-package ru.neyology.test;
+package delivery.test;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.SelenideElement;

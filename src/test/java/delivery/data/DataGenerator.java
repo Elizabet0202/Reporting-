@@ -1,4 +1,4 @@
-package ru.neyology.data;
+package delivery.data;
 
 import com.github.javafaker.Faker;
 import lombok.Value;

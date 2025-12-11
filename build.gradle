@@ -31,7 +31,7 @@ dependencies {
     testImplementation 'org.slf4j:slf4j-simple:2.0.3'
     // Библиотека allure-selenide для интеграции Allure с Selenide
     testImplementation 'io.qameta.allure:allure-selenide:2.27.0'
-   // implementation("io.qameta.allure:allure-commandline:2.13.3")
+
 }
 
 test {
